@@ -2,7 +2,7 @@
 
 A Simple game of life implementation using Python and Pygame
 
-![Alt Text](http://www.giphy.com/gifs/9Vknf5fKz6SqKa0qRp)
+![Alt Text](https://media.giphy.com/media/9Vknf5fKz6SqKa0qRp/giphy.gif)
 
 ## Getting Started
 
